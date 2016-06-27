@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  Geerd Kakes   Geerd@kakes.net
 
 # THANKS
 
