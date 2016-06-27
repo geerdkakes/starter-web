@@ -20,3 +20,5 @@ to be specified
 
 ## how to use
 please read the docs
+
+2016. GIT Training
