@@ -11,3 +11,6 @@ this sectio is about deployments
 
 ## Extra heading
 to be specified
+
+## how to use
+please read the docs
