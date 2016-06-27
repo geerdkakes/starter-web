@@ -10,7 +10,7 @@ Sample website with plenty of files for demos
 this is not to be used
 
 ## contribute
-Contribuitions can be mailed
+Contribuitions can be mailed. these shoud be added through GIT
 
 ## Deployments
 this sectio is about deployments
